@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86f9503a747524e9",
+        "id": "d434f8f28fe25237",
         "type": "tabs",
         "children": [
           {
-            "id": "58d8c827c3c56fb1",
+            "id": "7fd295bef3478d14",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,12 +174,14 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "98f46734dad0b01a",
+  "active": "7fd295bef3478d14",
   "lastOpenFiles": [
-    "npm/readme.md",
+    "git/git branch/merge.md",
+    "git/git branch/git branch.md",
     "npm/8dependencies_version.md",
     "npm/7dependencies_management.md",
     "npm/6export.md",
+    "npm/readme.md",
     "npm/5script.md",
     "npm/4projecttype.md",
     "npm/3npm_configuration.md",
@@ -187,9 +189,7 @@
     "npm/1pengenalanNPM.md",
     "npm",
     "template/catatan harian.md",
-    "git/git branch/git branch.md",
     "git/git remote/membuat remote.md",
-    "git/git branch/merge.md",
     "git/git remote/git push.md",
     "git",
     "git/git remote/git remote branch.md",
