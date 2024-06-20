@@ -9,6 +9,11 @@ tetapi kita juga bisa menambah / atau membuat cabang branch
 git branch namabranch
 ```
 
+### membuat branch dan langsung (checkout ke branch tersebut)
+
+```git
+git -b checkout namabranch
+```
 ### menghapus branch
 untuk menghapus branch kita bisa menggunakan flag `-d` atau `--delete`
 ```git

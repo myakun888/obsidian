@@ -1,4 +1,6 @@
 {
   "showInlineTitle": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": false
 }
