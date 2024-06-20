@@ -1,0 +1,1 @@
+ini adalah suatu catatan dari materi, pembelajara, atau  hal lainya 

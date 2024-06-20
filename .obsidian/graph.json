@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:belajarlinux  ",
+      "color": {
+        "a": 1,
+        "rgb": 14820611
+      }
+    },
+    {
+      "query": "path:npm  ",
+      "color": {
+        "a": 1,
+        "rgb": 14898260
+      }
+    },
+    {
+      "query": "path:harian  ",
+      "color": {
+        "a": 1,
+        "rgb": 385369
+      }
+    },
+    {
+      "query": "path:git ",
+      "color": {
+        "a": 1,
+        "rgb": 15073280
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.533854166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.411458333333333,
+  "repelStrength": 11.7708333333333,
+  "linkStrength": 0.125,
+  "linkDistance": 500,
+  "scale": 0.20809835898999057,
+  "close": true
+}
