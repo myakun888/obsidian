@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "b7dd5ca140fbe9e4",
+    "id": "a7fdbd925d3a83ad",
     "type": "split",
     "children": [
       {
-        "id": "8665bae6ae98d5aa",
+        "id": "9023e7a9ee4103b6",
         "type": "tabs",
         "children": [
           {
-            "id": "598e26084047f339",
+            "id": "9511c83058f47da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/catatan harian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a872e10f8f65bb24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mysql/mysql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65109404a485310a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mysql/mysql.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "262698a88fbe7922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mysql/restore database.md",
+                "file": "readme.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "07bae5dd6a3115a7",
+    "id": "2c1f69bc2c6b36c6",
     "type": "split",
     "children": [
       {
-        "id": "b83c480352b52103",
+        "id": "2d69d41d8f301815",
         "type": "tabs",
         "children": [
           {
-            "id": "98f46734dad0b01a",
+            "id": "87ecec73a165259e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "1e24de95287020df",
+            "id": "3d47c4361698e280",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "b4c2af2de0b3ccd8",
+            "id": "9c55460530e83a0c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +69,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 300
   },
   "right": {
-    "id": "ba1eda3f1337b0f9",
+    "id": "d84ab80899717c5c",
     "type": "split",
     "children": [
       {
-        "id": "990245a517d4ea92",
+        "id": "c7ebd3265dc2e3ff",
         "type": "tabs",
         "children": [
           {
-            "id": "dfa04cc4279661ab",
+            "id": "1180a86828a21fd4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7d9f0959392c4ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "readme.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -133,26 +105,19 @@
             }
           },
           {
-            "id": "750a2a4c6a3d3800",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d225b1fcc23bfbf",
+            "id": "7b38ddc4dfd837aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "file": "readme.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "df791823c60820e9",
+            "id": "43f42ee6c1874a96",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,43 +128,25 @@
             }
           },
           {
-            "id": "a21e96466e5923b2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f96dd68ae8618ad2",
+            "id": "bdf086cabf618a16",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "26b4943f7a423b8f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9a295feef5766938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
               "state": {
-                "file": "git/git branch/git branch.md",
-                "mode": "source",
-                "source": false
+                "file": "readme.md"
               }
+            }
+          },
+          {
+            "id": "8bda20ad33ee0e22",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -215,42 +162,39 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "750a2a4c6a3d3800",
+  "active": "9511c83058f47da6",
   "lastOpenFiles": [
-    "mysql/restore database.md",
-    "mysql/mysql.md",
-    "mysql/Tanpa judul 1.md",
-    "template/catatan harian.md",
-    "git/git remote/Tanpa judul.md",
-    "Tanpa judul 1.md",
-    "Tanpa judul.md",
-    "template/date and time.md",
-    "harian/2024-06-20.md",
-    "git/git branch/git branch.md",
-    "Tanpa judul 2.md",
-    "git/git branch/Tanpa judul 1.md",
-    "git/git branch/Tanpa judul.md",
-    "mysql/mysql dasar",
-    "mysql",
+    "Inbox.md",
+    "readme.md",
     "git/git branch/merge.md",
-    "npm/8dependencies_version.md",
-    "npm/7dependencies_management.md",
-    "npm/6export.md",
-    "npm/readme.md",
-    "npm/5script.md",
-    "npm/4projecttype.md",
-    "npm/3npm_configuration.md",
-    "npm/2membuat_project.md",
-    "npm/1pengenalanNPM.md",
-    "npm",
-    "git/git remote/membuat remote.md",
-    "git/git remote/git push.md",
-    "git",
-    "git/git remote/git remote branch.md",
-    "template",
-    "git/git branch",
-    "git/git remote",
-    "harian",
-    "belajarlinux"
+    "belajarlinux/swap pada linux.md",
+    "mysql/mysql.md",
+    "mysql/restore database.md",
+    "tahun/2024.md",
+    "tahun/juli.md",
+    "harian/2024-06-21.md",
+    "harian/2024-06-22.md",
+    "harian/2024-06-17.md",
+    "belajarlinux/menginstall linux.md",
+    "belajarlinux/setelah install.md",
+    "belajarlinux/mounting drive pada linux.md",
+    "mysql/Tanpa judul 1.md",
+    "harian/Tanpa judul.md",
+    "harian/Tanpa judul 1.md",
+    "Tanpa judul.md",
+    "juli.md",
+    "tahun/juni 2024.md",
+    "juni2024.md",
+    "juni2024",
+    "tahun/juni2024",
+    "after insall linux.md",
+    "code minimize ubuntu.md",
+    "cara install offline applikasi linux.md",
+    "tahun/juni 2024",
+    "todo list",
+    "harian/2024-06-15.md",
+    "todolist",
+    "Tanpa judul",
+    "Tasks Plugin - Review and check your Statuses 2024-06-21 12-55-59.md"
   ]
 }

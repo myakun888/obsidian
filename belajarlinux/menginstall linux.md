@@ -67,6 +67,7 @@ biasanya tombol **f2** atau **delete** , **f12**
 * selajutnya next , next saja silahkan pilih sesuai yang kita mau, jika memungkinan sambungkan internet saat instalasi karena akan sekalian download
 * tunggu sampai proses instalasi selesai hingga masuk halam home atau desktop nya
 
+untuk lebih detail swap di materi ini [[swap pada linux]]
 
 sampai tahap ini selesai proses intaslasi selesai,  untuk optimal adalah beberapa hal yang harus di lakukan lagi [[setelah install]] diatara nya setting user, driver dll
 
