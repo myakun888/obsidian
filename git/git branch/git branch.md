@@ -12,7 +12,7 @@ git branch namabranch
 ### membuat branch dan langsung (checkout ke branch tersebut)
 
 ```git
-git -b checkout namabranch
+git checkout -b namabranch
 ```
 ### menghapus branch
 untuk menghapus branch kita bisa menggunakan flag `-d` atau `--delete`
