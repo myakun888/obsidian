@@ -13,8 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informasi semantic.md",
+                "file": "npm/13ignore_file.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def5c568a2611570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npm/10membuat library.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2badc1ad64d2a951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npm/12install package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c4e9f8f35448a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npm/13ignore_file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db5098d39915853d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npm/14upgrade package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c2509511e116784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informasi semantic.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informasi semantic.md",
+                "file": "npm/13ignore_file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informasi semantic.md",
+                "file": "npm/13ignore_file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informasi semantic.md"
+                "file": "npm/13ignore_file.md"
               }
             }
           },
@@ -164,9 +224,18 @@
   },
   "active": "94ef7b0328c1b4d2",
   "lastOpenFiles": [
+    "npm/15update dependencies.md",
+    "npm/8dependencies_version.md",
+    "npm/1pengenalanNPM.md",
+    "npm/10membuat library.md",
+    "npm/12install package.md",
+    "npm/13ignore_file.md",
+    "npm/14upgrade package.md",
+    "informasi semantic.md",
+    "npm/11publish package.md",
+    "npm/9dependencies_development.md",
     "git/git branch/git branch.md",
     "tahun/juni.md",
-    "informasi semantic.md",
     "harian/2024-06-23.md",
     "tahun/juli.md",
     "harian/2024-06-22.md",
@@ -174,9 +243,6 @@
     "git/git branch/merge.md",
     "readme.md",
     "mysql/restore database.md",
-    "npm/readme.md",
-    "npm/9dependencies_development.md",
-    "npm/8dependencies_version.md",
-    "npm/1pengenalanNPM.md"
+    "npm/readme.md"
   ]
 }
