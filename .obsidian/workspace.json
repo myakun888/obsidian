@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npm/13ignore_file.md",
+                "file": "npm/readme.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm/13ignore_file.md",
+                "file": "npm/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npm/13ignore_file.md",
+                "file": "npm/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npm/13ignore_file.md"
+                "file": "npm/readme.md"
               }
             }
           },
@@ -224,12 +224,12 @@
   },
   "active": "94ef7b0328c1b4d2",
   "lastOpenFiles": [
+    "npm/13ignore_file.md",
     "npm/15update dependencies.md",
     "npm/8dependencies_version.md",
     "npm/1pengenalanNPM.md",
     "npm/10membuat library.md",
     "npm/12install package.md",
-    "npm/13ignore_file.md",
     "npm/14upgrade package.md",
     "informasi semantic.md",
     "npm/11publish package.md",
