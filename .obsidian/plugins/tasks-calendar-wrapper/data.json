@@ -12,9 +12,9 @@
   "styles": [
     "style1"
   ],
-  "dailyNoteFolder": "",
-  "dailyNoteFormat": "YYYY, MMMM DD - dddd",
-  "sectionForNewTasks": "## Tasks",
+  "dailyNoteFolder": "todo harian",
+  "dailyNoteFormat": "dddd, MMMM Do YYYY",
+  "sectionForNewTasks": "## Tasks Hari ini",
   "hideTags": [],
   "forward": true,
   "sort": "(t1, t2) => t1.order <= t2.order ? -1 : 1",
