@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
-                "mode": "preview",
+                "file": "alquran/1alfateha.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "alquran/1alfateha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "alquran/1alfateha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "alquran/1alfateha.md"
               }
             }
           },
@@ -164,8 +164,18 @@
   },
   "active": "2235405509bb0c45",
   "lastOpenFiles": [
-    "todo harian/Tuesday, June 25th 2024.md",
+    "alquran/readme.md",
+    "alquran/1alfateha.md",
     "tahun/juni.md",
+    "kosa kata hari ini/1kosakata_25juni2024.md",
+    "tahun/2024.md",
+    "alquran",
+    "Tanpa judul",
+    "readme.md",
+    "todo harian/Tuesday, June 25th 2024.md",
+    "kosa kata hari ini/readme.md",
+    "kosa kata hari ini",
+    "harian/2024-06-25.md",
     "todo harian/Monday, June 24th 2024.md",
     "npm/readme.md",
     "informasi semantic.md",
@@ -175,14 +185,8 @@
     "npm/12install package.md",
     "npm/11publish package.md",
     "npm/10membuat library.md",
-    "readme.md",
-    "kosa kata hari ini/1kosakata_25juni2024.md",
-    "kosa kata hari ini/readme.md",
-    "harian/2024-06-25.md",
     "harian/2024-06-23.md",
     "harian/2024-06-21.md",
-    "tahun/2024.md",
-    "kosa kata hari ini",
     "harian/2024-06-24.md",
     "harian/Monday, June 24th 2024.md",
     "todo harian",
@@ -190,8 +194,6 @@
     "nodejs unit test/readme.md",
     "nodejs unit test",
     "git/git branch/git branch.md",
-    "git/git branch/merge.md",
-    "npm/8dependencies_version.md",
-    "npm/1pengenalanNPM.md"
+    "git/git branch/merge.md"
   ]
 }
