@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2d85bee971c24281",
+        "id": "13c6b8cfae90bbf5",
         "type": "tabs",
         "children": [
           {
-            "id": "94ef7b0328c1b4d2",
+            "id": "2235405509bb0c45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6392ee12fa86fdc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "harian/2024-06-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "def5c568a2611570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npm/10membuat library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2badc1ad64d2a951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npm/12install package.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c4e9f8f35448a76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npm/13ignore_file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db5098d39915853d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npm/14upgrade package.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c2509511e116784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "informasi semantic.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "harian/2024-06-23.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "harian/2024-06-23.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "harian/2024-06-23.md"
+                "file": "readme.md"
               }
             }
           },
@@ -235,35 +162,36 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "6392ee12fa86fdc8",
+  "active": "2235405509bb0c45",
   "lastOpenFiles": [
-    "tahun/2024.md",
+    "todo harian/Tuesday, June 25th 2024.md",
     "tahun/juni.md",
     "todo harian/Monday, June 24th 2024.md",
+    "npm/readme.md",
+    "informasi semantic.md",
+    "npm/15update dependencies.md",
+    "npm/14upgrade package.md",
+    "npm/13ignore_file.md",
+    "npm/12install package.md",
+    "npm/11publish package.md",
+    "npm/10membuat library.md",
+    "readme.md",
+    "kosa kata hari ini/1kosakata_25juni2024.md",
+    "kosa kata hari ini/readme.md",
+    "harian/2024-06-25.md",
+    "harian/2024-06-23.md",
+    "harian/2024-06-21.md",
+    "tahun/2024.md",
+    "kosa kata hari ini",
     "harian/2024-06-24.md",
     "harian/Monday, June 24th 2024.md",
-    "readme.md",
     "todo harian",
     "2024, June 24 - Monday.md",
     "nodejs unit test/readme.md",
     "nodejs unit test",
     "git/git branch/git branch.md",
     "git/git branch/merge.md",
-    "npm/readme.md",
-    "npm/13ignore_file.md",
-    "npm/15update dependencies.md",
     "npm/8dependencies_version.md",
-    "npm/1pengenalanNPM.md",
-    "npm/10membuat library.md",
-    "npm/12install package.md",
-    "npm/14upgrade package.md",
-    "informasi semantic.md",
-    "npm/11publish package.md",
-    "npm/9dependencies_development.md",
-    "harian/2024-06-23.md",
-    "tahun/juli.md",
-    "harian/2024-06-22.md",
-    "git/git remote/git remote branch.md",
-    "mysql/restore database.md"
+    "npm/1pengenalanNPM.md"
   ]
 }
