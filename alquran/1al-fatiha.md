@@ -1,6 +1,6 @@
 # AL-FATIHAH
 
-### surat ke 1,  jumlah surat 1-7 ayat  #makkiyah #alfatiha 
+### surat ke 1,  jumlah surat 1:7 ayat  #makkiyah #alfatiha 
 1. ==Bimillahirrahmanirahim==
 2.  ==al-hamdulilllahi-rabbil-aalamin(a)==
 3. ==ar-rahmanir-rohim-rahhim==
@@ -19,5 +19,5 @@
 7. (yatu) jalan orang-orang yang telah Engkau beri nikmat kepadanya, bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat
 
 
-tulis oleh : **Muhammad Fajrin Saputra,S.Kom**
-pada : Selasa, 25 Juni  2024 | 9:01:59 malam
+ditulis oleh : **Muhammad Fajrin Saputra,S.Kom**
+pada : Selasa, 25 Juni  2024 | 09:01:59 malam
