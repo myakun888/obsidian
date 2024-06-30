@@ -25,7 +25,7 @@ ayat 1-10
 9. Mereka menipu ALLAH dan orang-orang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari.
 10. Dalam hati mereka ada penyakit, lalu ALLAH menambah penyakitnya itu; dan mereka mendapat azab yang pedih karena mereka berdusta.
 
-lanjut ayat selanjutnya [[2al-baqarah-2]]
+lanjut ayat selanjutnya  [[2al-baqarah-2]] berisi ayat 11-20
 
 
 tulis oleh : **Muhammad Fajrin Saputra,S.Kom**

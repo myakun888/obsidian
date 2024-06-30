@@ -1,3 +1,6 @@
+ditulis oleh : **Muhammad Fajrin Saputra,S.Kom**
+pada : Rabu, 25 Juni  2024 | 09 : 05 : pagi
+#kosa_kata_bahasa_inggris #kamus_bahasa_inggris #kosa_kata_kerja
 Ask (bertanya)  
 Be (adalah)  
 Begin (mulai)  
