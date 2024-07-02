@@ -1,4 +1,4 @@
-ditulis oleh : **Muhammad Fajrin Saputra,S.Kom**
+**ditulis** oleh : **Muhammad Fajrin Saputra,S.Kom**
 pada : Jumat, 28 Juni  2024 | 14 : 12 siang
 #kosa_kata_bahasa_inggris #kamus_bahasa_inggris #kosa_kata_kerja 
 
