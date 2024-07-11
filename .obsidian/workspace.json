@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "61e2b550072f54cd",
+        "id": "5f1a15c1e1ab20ea",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf83345ac3b479e",
+            "id": "4ccef852030077e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "kosa kata hari ini/5kosakata_05jul2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19beff82022cfab0",
+            "id": "a3adbc303d13f866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "situs website penting.md",
+                "file": "alquran/2al-baqarah-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,11 +62,11 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "situs website penting.md",
+                "file": "alquran/2al-baqarah-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "situs website penting.md",
+                "file": "alquran/2al-baqarah-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "situs website penting.md"
+                "file": "alquran/2al-baqarah-4.md"
               }
             }
           },
@@ -175,36 +175,37 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "19beff82022cfab0",
+  "active": "a3adbc303d13f866",
   "lastOpenFiles": [
-    "Tanpa judul.md",
-    "situs website penting.md",
-    "readme.md",
+    "alquran/2al-baqarah-5.md",
+    "alquran/2al-baqarah-4.md",
+    "alquran/1al-fatiha.md",
+    "alquran2",
+    "kosa kata hari ini/6kosakata_11jull2024.md",
+    "kosa kata hari ini/readme.md",
+    "kosa kata hari ini/5kosakata_05jul2024.md",
     "alquran/2al-baqarah-3.md",
-    "informasi semantic.md",
+    "situs website penting.md",
+    "Tanpa judul 1",
+    "harian/2024-07-10.md",
+    "cara setting path.md",
+    "harian/2024-07-06.md",
+    "tahun/2024.md",
+    "git/git semantic commit.md",
+    "informasi semantic version.md",
+    "harian/2024-07-05.md",
+    "kosa kata hari ini/4kosakata_30jun2024.md",
+    "tahun/juli.md",
+    "tahun/juni.md",
+    "todo harian/Thursday, July 4th 2024.md",
+    "todo harian/Tuesday, June 25th 2024.md",
+    "todo harian/Friday, July 5th 2024.md",
+    "readme.md",
+    "Inbox.md",
+    "keepassxc.md",
     "alquran/2al-baqarah-2.md",
     "kosa kata hari ini/3kosakata_28jun2024.md",
-    "kosa kata hari ini/4kosakata_30jun2024.md",
-    "kosa kata hari ini/2kosakata_26jun2024.md",
-    "alquran/2al-baqarah-1.md",
-    "kosa kata hari ini/1kosakata_25juni2024.md",
-    "template/signature.md",
-    "tahun/2024.md",
-    "todo harian/Wednesday, June 26th 2024.md",
-    "todo harian/Monday, June 24th 2024.md",
-    "git/git branch/merge.md",
-    "kosa kata hari ini/readme.md",
-    "template/catatan harian.md",
-    "template/hari dan jam.md",
-    "alquran/1al-fatiha.md",
-    "alquran/readme.md",
-    "template/todo.md",
-    "template/sholawat.md",
-    "tahun/juni.md",
-    "harian/2024-06-26.md",
-    "harian/2024-06-25.md",
     "alquran",
-    "Tanpa judul",
     "kosa kata hari ini",
     "todo harian",
     "nodejs unit test"
