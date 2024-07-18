@@ -37,10 +37,11 @@ pada linux
 	 di contoh ini dengan vscode , lakukan perintah berikut
 	ketik `code .profile`
 	tambahkan  perintah berikut dengan formant `export = pathnya :$PATH`
+	contoh
 	`export = /opt/lampp/bin:$PATH`
 	save dan buka ulang terminal
 
-inti dari dua cara ini yaitu marok lokasi file bin ke env ny
+inti dari dua cara ini yaitu meletakan lokasi file bin ke env ny
 
 silahkan gunakan dua cara diatas , biasanya cara ke 2 gunakan, untuk cara pertama itu secara root karena di pindkan ke bin dari root , sedangkan cara dua adalah ke bin user melalui envirotment user 
 	 

@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:belajarlinux  ",
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 4490734
       }
+    },
+    {
+      "query": "path:php  ",
+      "color": {
+        "a": 1,
+        "rgb": 7612646
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.533854166666667,
-  "collapse-forces": true,
-  "centerStrength": 0.411458333333333,
-  "repelStrength": 11.7708333333333,
-  "linkStrength": 0.125,
-  "linkDistance": 500,
-  "scale": 0.31214753848498566,
+  "nodeSizeMultiplier": 0.610416666666667,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0.552083333333333,
+  "repelStrength": 8.95833333333333,
+  "linkStrength": 0.317708333333333,
+  "linkDistance": 451,
+  "scale": 0.31214753848498555,
   "close": true
 }
