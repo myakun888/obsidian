@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05504f8918c88688",
+            "id": "2befbd3f500e7476",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "php/27function_argumen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "php/27function_argumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "php/27function_argumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "php/27function_argumen.md"
+              }
             }
           },
           {
@@ -154,11 +162,14 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "05504f8918c88688",
+  "active": "2befbd3f500e7476",
   "lastOpenFiles": [
+    "php/19null_coalesing_operator.md",
+    "php/readme.md",
+    "php/16if_statement.md",
+    "react/5jsx.md",
     "php/14expression_statement_block.md",
     "php/15manipulasi_string.md",
-    "php/16if_statement.md",
     "afirmasi positif.md",
     "php/13operator_array.md",
     "code minimize ubuntu.md",
@@ -175,13 +186,10 @@
     "php/12increment_decrement.md",
     "php/9operator_aritmatika.md",
     "php/2program_helloworld.md",
-    "php/readme.md",
     "php/10operator_penugasan.md",
     "php/Tanpa judul 1.md",
     "php/8tipedata_array.md",
     "php/7data_null.md",
-    "php/6variabel.md",
-    "php/5tipedata_string.md",
     "alquran2",
     "Tanpa judul 1",
     "alquran",
