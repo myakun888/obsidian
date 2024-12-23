@@ -92,7 +92,7 @@ tapi pada jsx kita harus menulis ny `className` ini agar membedakan class ini ad
 
 dengan jsx memunkinkan kita menulis markup html di dalam javascript file, serta merender logic dan menampilkan file di satu tempat yang sama
 
-terkadang kita ingin menambahkan sedikit logic di dalam html atau mengamil value dll, disini fungsi kurung kurawal dapat  digunakan untuk melakukan itu
+terkadang kita ingin menambahkan sedikit logic di dalam html atau mengambil value dll, disini fungsi kurung kurawal dapat  digunakan untuk melakukan itu
 <!-- kurung kurawal { } untuk membuka , memfungsikan javascript di dalamnya -->
 jika di file javascript biasa kita bisa menggunakan tanda backtik dan ` ` dan `${}`
 di jsc cukup dengan `{}` saja

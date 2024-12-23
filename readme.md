@@ -4,7 +4,7 @@ ini adalah suatu catatan dari materi, pembelajaran, atau  hal lainya
 
 
 
-### informasi semanntic pada log git ny
+### informasi semantic pada log git ny
 
 ___
 docs = adalah document

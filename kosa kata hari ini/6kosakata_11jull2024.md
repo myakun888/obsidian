@@ -21,4 +21,4 @@ pada : Kamis, 11 Juli  2024 | 18 : 39 sore
 117. short = pendek
 118. expensive = mahal
 119. cheap = murah
-200. light = ringan
+220. light = ringan
