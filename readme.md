@@ -13,3 +13,6 @@ style = segala bentuk setingan , tampilan dan plugin kita
 fix = memperbaiki kesalahan typo dll
 refac = memperbaik folder / tulisan pada docs
 
+
+
+umum = pengetahuan / catatan / informasi yang tidak di dalam folder , atau di luar pengelompokan

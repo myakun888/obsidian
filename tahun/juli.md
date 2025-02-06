@@ -2,5 +2,5 @@
 
 target bulan juli 2024
 - [/] menyelesaikan surat al-baqarah 🔺
-- [ ] menjadi lebih baik
+- [x] menjadi lebih baik ✅ 2025-02-06
 - [ ] memulai wirid lagi

@@ -1,1 +1,1 @@
-dibuat pada : {{date}} | {{time
+dibuat pada : {{date}} | {{time}}

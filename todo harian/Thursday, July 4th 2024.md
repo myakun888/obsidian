@@ -1,2 +1,2 @@
 ## Tasks Hari ini
-- [ ] membaca al-quran
+- [x] membaca al-quran ✅ 2025-02-06

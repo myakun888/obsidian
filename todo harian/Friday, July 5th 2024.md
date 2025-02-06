@@ -1,3 +1,3 @@
 ## Tasks Hari ini
-- [ ] membaca alquran
-- [ ] menambah kosa kata bahasa inggris
+- [x] membaca alquran ✅ 2025-02-06
+- [x] menambah kosa kata bahasa inggris ✅ 2025-02-06

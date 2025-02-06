@@ -1,3 +1,9 @@
 [submodule "npm"]
 	path = npm
 	url = git@github.com:myakun888/npm.git
+[submodule "learn/php/php_dasar"]
+	path = learn/php/php_dasar
+	url = git@github.com:myakun888/php.git
+[submodule "learn/php/php_oop"]
+	path = learn/php/php_oop
+	url = git@github.com:myakun888/php_oop.git

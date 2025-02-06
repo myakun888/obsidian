@@ -31,8 +31,9 @@
   "dateFormat": "dddd, MMM, D",
   "inbox": "Inbox.md",
   "taskFiles": [
+    "tahun/2025.md",
     "tahun/2024.md",
-    "tahun/julii.md"
+    "tahun/juli.md"
   ],
   "tagColorPalette": {
     "#TODO": "#339988",
