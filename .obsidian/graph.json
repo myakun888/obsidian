@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:belajarlinux  ",
@@ -48,18 +48,32 @@
         "a": 1,
         "rgb": 7612646
       }
+    },
+    {
+      "query": "path:learn/php/php_oop  ",
+      "color": {
+        "a": 1,
+        "rgb": 1388466
+      }
+    },
+    {
+      "query": "path:alquran  ",
+      "color": {
+        "a": 1,
+        "rgb": 15722993
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 0.610416666666667,
+  "nodeSizeMultiplier": 0.686979166666667,
   "lineSizeMultiplier": 0.1,
   "collapse-forces": true,
   "centerStrength": 0.552083333333333,
   "repelStrength": 8.95833333333333,
   "linkStrength": 0.317708333333333,
   "linkDistance": 451,
-  "scale": 0.2919582958419177,
+  "scale": 0.13944090808624293,
   "close": true
 }

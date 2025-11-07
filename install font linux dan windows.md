@@ -40,4 +40,4 @@ note : dari contoah kita asumsikan folder jetbrains berada di dalam folder downl
 
 
 > jadi inti dari cara install font di linux , yaitu hanya memidahkan font/ folder fonts yang kita ingin instal ke dalam folder fonts yang beradan di share
-- `home/useranda/.local/share/fonts`
+	- `home/useranda/.local/share/fonts`
