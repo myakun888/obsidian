@@ -12,7 +12,7 @@
   "styles": [
     "style1"
   ],
-  "dailyNoteFolder": "todo harian",
+  "dailyNoteFolder": "todolist harian",
   "dailyNoteFormat": "dddd, MMMM Do YYYY",
   "sectionForNewTasks": "## Tasks Hari ini",
   "hideTags": [],
@@ -31,9 +31,7 @@
   "dateFormat": "dddd, MMM, D",
   "inbox": "Inbox.md",
   "taskFiles": [
-    "tahun/2025.md",
-    "tahun/2024.md",
-    "tahun/juli.md"
+    "todolist/target.md"
   ],
   "tagColorPalette": {
     "#TODO": "#339988",

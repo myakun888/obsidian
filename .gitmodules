@@ -8,3 +8,12 @@
 	path = learn/php/php_oop
 	url = git@github.com:myakun888/php_oop.git
 
+[submodule "config/config_vim"]
+	path = config/config_vim
+	url = git@github.com:myakun888/config_vim.git
+[submodule "config/config_zsh"]
+	path = config/config_zsh
+	url = git@github.com:myakun888/config_zsh.git
+[submodule "learn/docker/learn_docker_dasar"]
+	path = learn/docker/learn_docker_dasar
+	url = git@github.com:myakun888/learn_docker_dasar.git

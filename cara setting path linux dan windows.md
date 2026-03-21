@@ -1,6 +1,6 @@
 # cara setting path pada linux dan windows
 
-
+#linux #windows #path 
 seting envirotment biasanya di gunakan agar kita dapat mengakses suatu aplikasi dari terminal dan megekseskusi nya secara global melalui terminal
 
 
@@ -23,6 +23,7 @@ berikut cara memasuki envirotmen / setting envirotment pada windwos dan linuex
 
 ## linux
 
+> baca juag [[cara export path di linux]]
 pada linux
  ada dua cara 
 1. setelah kita tahu alamt path nya contoh alamat path php berada pada 

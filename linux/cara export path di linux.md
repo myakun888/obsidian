@@ -1,12 +1,14 @@
 # export path di linux
 
 
-
+#linux #linuxcmd  #path
 saat kita menggunakan linux kita biasa nya menjalankan file biasanya file executable atau bin , atau berbentuk app.image dll melalui terminal, terkadang ada kendala di mana file bin nya hanya bisa di eksekusi di tempat nya saja, maka dari itu agar bisa di eksekusi di semua tempat harus kita export, tarok di bin seperti cara berikut ini
 
 
 ## ada beberapa cara export path di linux  
 
+
+> baca juga : [[cara setting path linux dan windows]]
 ## 1. dengan export PATH
 
 kita export di path ny di file `.bashrc`  

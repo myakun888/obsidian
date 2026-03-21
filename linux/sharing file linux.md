@@ -85,6 +85,6 @@ pada bar path explorer windows
 
 
 untuk lebih lanjut silahkan liaht dokumentasi samba
-atau bisa liat di youte cara sharing file dari linux ke windows
+atau bisa liat di youtube cara sharing file dari linux ke windows
 
 

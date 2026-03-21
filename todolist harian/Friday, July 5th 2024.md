@@ -1,3 +1,3 @@
 ## Tasks Hari ini
-- [x] membaca alquran ✅ 2025-02-06
+- [x] membaca alquran ✅ 2026-01-09
 - [x] menambah kosa kata bahasa inggris ✅ 2025-02-06

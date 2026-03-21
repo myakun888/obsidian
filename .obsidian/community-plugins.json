@@ -1,5 +1,6 @@
 [
   "calendar",
   "obsidian-tasks-plugin",
-  "tasks-calendar-wrapper"
+  "tasks-calendar-wrapper",
+  "obsidian-vimrc-support"
 ]

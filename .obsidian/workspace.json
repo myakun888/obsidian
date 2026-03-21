@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "7f051144995384ae",
+        "id": "cbd73f85008474d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f0947597e746bdfb",
+            "id": "d554dad8f3538090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "harian/2025/2025-11-07.md",
+                "file": "LOA and scripting/skill.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-07"
+              "title": "skill"
+            }
+          },
+          {
+            "id": "05a2355601e91784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOA and scripting/karir.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "karir"
+            }
+          },
+          {
+            "id": "7dde6e72dbc7ca38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOA and scripting/uang.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "uang"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -54,7 +83,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Penanda"
             }
           },
           {
@@ -66,9 +95,9 @@
                 "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-search",
               "title": "Penelusuran"
@@ -78,18 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5110321044922
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "310cb0eed106b9d9",
     "type": "split",
     "children": [
       {
-        "id": "c5b9e3226972aba4",
+        "id": "d2ae24fee94456b7",
         "type": "tabs",
         "children": [
           {
-            "id": "46e10acd29aeb13e",
+            "id": "4b0ac1afafa297fe",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -99,22 +129,49 @@
             }
           },
           {
+            "id": "9000faa68e84f0f4",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c5b9e3226972aba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8187481bd6207f2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Tampilan grafik"
+            }
+          },
+          {
             "id": "7808ddce30e1f7ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sharing file linux.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlink pada sharing file linux"
+              "title": "Backlink pada Inbox"
             }
           },
           {
@@ -123,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "harian/2024-10-06.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-06"
+              "title": "Tautan keluar dari Inbox"
             }
           },
           {
@@ -152,90 +209,81 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "alquran/1al-fatiha.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "LOA and scripting/LOA.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kerangka dari 1al-fatiha"
-            }
-          },
-          {
-            "id": "59f587e010f59991",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
-            }
-          },
-          {
-            "id": "da683bf89d9a9e13",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
+              "title": "Kerangka dari LOA"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
       "switcher:Buka peralih cepat": false,
-      "graph:Buka tampilan grafik": false,
       "canvas:Buat kanvas baru": false,
       "daily-notes:Buka catatan hari ini": false,
+      "graph:Buka tampilan grafik": false,
       "templates:Masukkan template": false,
-      "command-palette:Buka palet perintah": false
+      "command-palette:Buka palet perintah": false,
+      "markdown-importer:Buka importir Markdown": false
     }
   },
-  "active": "f0947597e746bdfb",
+  "active": "7dde6e72dbc7ca38",
   "lastOpenFiles": [
-    "mikrotik/perintah dasar mikrotik terminal.md",
-    "harian/2025/2025-11-07.md",
-    "mikrotik/belajar mikrotik.md",
-    "kosa kata hari ini/11.kosakata_16oct2025.md",
-    "kosa kata hari ini/10.kosakata_15oct2025.md",
-    "kosa kata hari ini/8kosakata_1aug2024.md",
-    "afirmasi positif.md",
-    "kosa kata hari ini/9kosakata_14oct2025.md",
-    "harian/2025/2025-10-14.md",
-    "install font linux dan windows.md",
-    "learn/php/php_oop/teori/Tanpa judul.base",
-    "learn/php/php_oop/teori/41dateTime.md",
-    "harian/2025/2025-09-14.md",
-    "keepassxc.md",
-    "harian/2025/2025-09-08.md",
-    "cara  export path di linux.md",
-    "harian/2025/2025-08-02.md",
-    "cara install offline applikasi linux.md",
-    "npm/readme.md",
-    "npm/9dependencies_development.md",
-    "npm/8dependencies_version.md",
-    "npm/7dependencies_management.md",
-    "npm/6export.md",
-    "npm/5script.md",
-    "npm/4projecttype.md",
-    "npm/3npm_configuration.md",
-    "npm/2membuat_project.md",
-    "npm",
-    "learn/php/php_oop/teori/44reflection.php",
-    "learn/php/php_oop/teori",
-    "learn/php/php_oop/project_oop/testing/testing.php",
-    "learn/php/php_oop/project_oop/testing/testViewShowTodolist.php",
-    "learn/php/php_oop/project_oop/testing/testViewDeleteTodolist.php",
-    "learn/php/php_oop/project_oop/testing/testViewAddTodolist.php",
-    "learn/php/php_oop/project_oop/Views/View.php",
-    "learn/php/php_oop/project_oop/Service/Service.php"
+    "LOA and scripting/karir.md",
+    "LOA and scripting/uang.md",
+    "LOA and scripting/skill.md",
+    "LOA and scripting/kekayaan.md",
+    "harian/2026/21-03-2026.md",
+    "resolusi/2026.md",
+    "LOA and scripting",
+    "template/catatan harian.md",
+    "ALLAH SWT/18 -januari-2026.md",
+    "harian/2026/18-02-2026.md",
+    "ALLAH SWT/30-januari-2026.md",
+    "18-februari-2026.md",
+    "harian/2026/05-01-2026.md",
+    "harian/2026/08-01-2026.md",
+    "harian/2026/14-02-2026.md",
+    "harian/2026/30-01-2026.md",
+    "vim/increment_dan_decrement.md",
+    "harian/2026/20-01-2026.md",
+    "ALLAH SWT/09-januari-2025.md",
+    "todolist/target.md",
+    "ALLAH SWT/README.md",
+    "todolist harian/Friday, January 9th 2026.md",
+    "password akun kerja.md",
+    "Tanpa judul.base",
+    "Tanpa judul 2.base",
+    "Tanpa judul 1.base",
+    "todolist harian/Thursday, July 4th 2024.md",
+    "todolist harian/Tuesday, June 25th 2024.md",
+    "todolist harian/Wednesday, June 26th 2024.md",
+    "todolist harian/Friday, July 5th 2024.md",
+    "ALLAH SWT/Tanpa judul.canvas",
+    "ALLAH SWT",
+    "ini",
+    "perhatkan",
+    "learn/learn_tmux/gambar/melihat_window.png",
+    "learn/learn_tmux/gambar/informasi_window.png",
+    "learn/learn_tmux/gambar",
+    "learn/learn_tmux/configurasi_dasar/tmux.conf.bak",
+    "learn/learn_tmux/configurasi_dasar",
+    "learn/tmux/learn_tmux/gambar/melihat_window.png",
+    "learn/tmux/learn_tmux/gambar/informasi_window.png",
+    "learn/docker/learn_docker_dasar/materi/asset/test_port_porwarding_publish.png",
+    "learn/docker/learn_docker_dasar/materi/asset/isi_dari_folder_mount_bind.png",
+    "learn/docker/learn_docker_dasar/materi/asset/docker_volume_rm.png",
+    "learn/docker/learn_docker_dasar/materi/asset/docker_volume_restore3.png",
+    "learn/docker/learn_docker_dasar/materi/asset/docker_volume_restore2.png",
+    "learn/docker/learn_docker_dasar/materi/asset/docker_volume_restore1.png"
   ]
 }

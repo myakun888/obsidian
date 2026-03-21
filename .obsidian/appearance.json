@@ -1,5 +1,9 @@
 {
   "cssTheme": "",
   "theme": "obsidian",
-  "accentColor": "#47d163"
+  "accentColor": "#47d163",
+  "interfaceFontFamily": "firacode",
+  "textFontFamily": "",
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": false
 }

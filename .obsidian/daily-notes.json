@@ -1,5 +1,5 @@
 {
-  "folder": "/harian/2025",
+  "folder": "/harian/2026",
   "template": "template/catatan harian",
-  "format": ""
+  "format": "DD-MM-YYYY"
 }
