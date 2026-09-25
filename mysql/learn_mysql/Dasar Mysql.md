@@ -1,0 +1,1 @@
+dalam mempelajari mysql ,kita harus di antranya

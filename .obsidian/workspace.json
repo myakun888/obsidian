@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd73f85008474d8",
+        "id": "4380839472e518e4",
         "type": "tabs",
         "children": [
           {
-            "id": "d554dad8f3538090",
+            "id": "575a9464d2e692ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LOA and scripting/skill.md",
+                "file": "harian/2026/06-07-2026.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "skill"
-            }
-          },
-          {
-            "id": "05a2355601e91784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LOA and scripting/karir.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "karir"
-            }
-          },
-          {
-            "id": "7dde6e72dbc7ca38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LOA and scripting/uang.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "uang"
+              "title": "06-07-2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
+    "width": 335.5,
     "collapsed": true
   },
   "right": {
@@ -124,12 +95,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
             "id": "9000faa68e84f0f4",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "aa3c6a639f60ae7c",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -161,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox.md",
+                "file": "lern2/oop/materi/2.object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlink pada Inbox"
+              "title": "Backlink pada 2.object"
             }
           },
           {
@@ -226,7 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Buat basis baru": false,
       "switcher:Buka peralih cepat": false,
       "canvas:Buat kanvas baru": false,
       "daily-notes:Buka catatan hari ini": false,
@@ -236,47 +217,47 @@
       "markdown-importer:Buka importir Markdown": false
     }
   },
-  "active": "7dde6e72dbc7ca38",
+  "active": "575a9464d2e692ad",
   "lastOpenFiles": [
-    "LOA and scripting/karir.md",
-    "LOA and scripting/uang.md",
-    "LOA and scripting/skill.md",
-    "LOA and scripting/kekayaan.md",
-    "harian/2026/21-03-2026.md",
-    "resolusi/2026.md",
-    "LOA and scripting",
     "template/catatan harian.md",
-    "ALLAH SWT/18 -januari-2026.md",
-    "harian/2026/18-02-2026.md",
-    "ALLAH SWT/30-januari-2026.md",
+    "harian/2026/06-07-2026.md",
+    "lern2/oop/materi/2.object.md",
+    "lern2/oop/materi/11.nameSpace.md",
+    "lern2/oop/materi/1.class.md",
+    "lern2/oop/materi/4.encapsulation.md",
+    "mysql/learn_mysql/Dasar Mysql.md",
+    "mysql/mysql.md",
+    "mysql/learn_mysql",
+    "mysql/restore database.md",
+    "setup_vpn.md",
+    "Tanpa judul",
     "18-februari-2026.md",
-    "harian/2026/05-01-2026.md",
-    "harian/2026/08-01-2026.md",
-    "harian/2026/14-02-2026.md",
-    "harian/2026/30-01-2026.md",
-    "vim/increment_dan_decrement.md",
-    "harian/2026/20-01-2026.md",
-    "ALLAH SWT/09-januari-2025.md",
-    "todolist/target.md",
-    "ALLAH SWT/README.md",
-    "todolist harian/Friday, January 9th 2026.md",
-    "password akun kerja.md",
+    "npm/readme.md",
+    "npm/9dependencies_development.md",
+    "npm/8dependencies_version.md",
+    "npm/7dependencies_management.md",
+    "npm/6export.md",
+    "npm/5script.md",
+    "npm/4projecttype.md",
+    "npm/3npm_configuration.md",
+    "npm/2membuat_project.md",
+    "npm/1pengenalanNPM.md",
+    "npm/15update dependencies.md",
+    "npm/14upgrade package.md",
+    "npm/13ignore_file.md",
+    "npm/12install package.md",
+    "npm/11publish package.md",
+    "LOA and scripting/Tanpa judul 2.base",
+    "LOA and scripting/Tanpa judul 1.base",
+    "LOA and scripting/Tanpa judul.base",
+    "LOA and scripting",
     "Tanpa judul.base",
     "Tanpa judul 2.base",
     "Tanpa judul 1.base",
-    "todolist harian/Thursday, July 4th 2024.md",
-    "todolist harian/Tuesday, June 25th 2024.md",
-    "todolist harian/Wednesday, June 26th 2024.md",
-    "todolist harian/Friday, July 5th 2024.md",
     "ALLAH SWT/Tanpa judul.canvas",
     "ALLAH SWT",
-    "ini",
-    "perhatkan",
     "learn/learn_tmux/gambar/melihat_window.png",
     "learn/learn_tmux/gambar/informasi_window.png",
-    "learn/learn_tmux/gambar",
-    "learn/learn_tmux/configurasi_dasar/tmux.conf.bak",
-    "learn/learn_tmux/configurasi_dasar",
     "learn/tmux/learn_tmux/gambar/melihat_window.png",
     "learn/tmux/learn_tmux/gambar/informasi_window.png",
     "learn/docker/learn_docker_dasar/materi/asset/test_port_porwarding_publish.png",
